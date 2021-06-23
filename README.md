@@ -1,6 +1,6 @@
 # FU_DBS_A09
 
-Apple's trade volume, high-low and enf of day values are shown on the line charts.
+Apple's trade volume, high-low and end of day values are shown on the line charts.
 
 Project done by Alik, Simon, Esra.
 
