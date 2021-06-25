@@ -2,8 +2,6 @@
 
 Apple's trade volume, high-low and end of day values are shown on the line charts.
 
-Project done by Alik, Simon, Esra.
-
 ## VS Code Extensions
 - Debugger for Chrome
 - Live Server
